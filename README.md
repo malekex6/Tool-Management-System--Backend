@@ -29,4 +29,5 @@ cd tool-management-backend
 mvn install
 
 # Run the application
-mvn spring-boot:run
+# mvn spring-boot:run
+```
