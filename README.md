@@ -10,9 +10,7 @@ This repository contains the backend implementation of a tool management dashboa
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Getting Started
 
