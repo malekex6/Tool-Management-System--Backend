@@ -23,10 +23,10 @@ To get the project up and running locally, follow these steps:
 git clone https://github.com/yourusername/tool-management-backend.git
 
 # Change directory
-cd tool-management-backend
+# cd tool-management-backend
 
 # Install dependencies
-mvn install
+# mvn install
 
 # Run the application
 # mvn spring-boot:run
