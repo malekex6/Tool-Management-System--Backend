@@ -1,6 +1,6 @@
 # Tool Management Dashboard - Backend
 
-This repository contains the backend implementation of a tool management dashboard using Spring Boot.
+This repository contains the backend implementation of a tool management system using Spring Boot.
 
 ## Table of Contents
 
